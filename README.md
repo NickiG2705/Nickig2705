@@ -1,8 +1,6 @@
-[Steam:](https://steamcommunity.com/id/NickiG2705) | 
-[Homepage](https://nickig.org/) | 
-[Discord:](https://discord.com/users/JUKO2705)
-
-
+[Steam:](https://steamcommunity.com/id/NickiG2705){:target="_blank"} | 
+[Homepage](https://nickig.org/){:target="_blank"} | 
+[Discord:](https://discord.com/users/JUKO2705){:target="_blank"}
 
 
 <b>Hello and welcome.</b><br>
