@@ -1,6 +1,8 @@
-<span style="display: inline-block; margin-right: 20px;">Steam: <a href="https://steamcommunity.com/id/NickiG2705" target="_blank">NickiG2705</a><br></span>
-<span style="display: inline-block; margin-right: 20px;">Site: <a href="https://nickig.org/" target="_blank">nickig.org</a><br></span>
-<span style="display: inline-block;">Discord: JUKO2705</span>
+Steam: [NickiG2705](https://steamcommunity.com/id/NickiG2705)
+<br>
+Site: [nickig.org](https://nickig.org/)
+<br>
+Discord: JUKO2705
 <hr>
 
 
