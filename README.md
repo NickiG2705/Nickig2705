@@ -1,6 +1,7 @@
 [Steam:](https://steamcommunity.com/id/NickiG2705) | 
 [Homepage](https://nickig.org/) | 
-[Discord:JUKO2705]
+[Discord:](https://discord.com/users/JUKO2705)
+
 
 
 
