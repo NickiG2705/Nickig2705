@@ -2,12 +2,19 @@ Steam: [NickiG2705<br>](https://steamcommunity.com/id/NickiG2705)
 Site: [nickig.org<br>](https://nickig.org/)
 Discord: JUKO2705<b>
 
-<div style="display: flex; justify-content: flex-end;">
-    <a href="https://github.com/sixem/sixem/blob/main/assets/computer.png?raw=true" target="_blank">
-        <img src="https://github.com/sixem/sixem/blob/main/assets/computer.png?raw=true" alt="Computer billede">
-    </a>
-    <hr style="margin-left: 10px;">
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/sixem/sixem/blob/main/assets/computer.png?raw=true" target="_blank">
+          <img src="https://github.com/sixem/sixem/blob/main/assets/computer.png?raw=true" alt="Computer billede">
+      </a>
+    </td>
+    <td>
+      <hr>
+    </td>
+  </tr>
+</table>
+
 
 
 <b>Hello and welcome.</b><br>
