@@ -1,6 +1,6 @@
-[Steam:](https://steamcommunity.com/id/NickiG2705){:target="_blank"} | 
-[Homepage](https://nickig.org/){:target="_blank"} | 
-[Discord:](https://discord.com/users/JUKO2705){:target="_blank"}
+<a href="https://steamcommunity.com/id/NickiG2705" target="_blank">Steam:</a> | 
+<a href="https://nickig.org/" target="_blank">Homepage</a> | 
+<a href="https://discord.com/users/JUKO2705" target="_blank">Discord:</a>
 
 
 <b>Hello and welcome.</b><br>
