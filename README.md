@@ -1,9 +1,7 @@
-Steam: [NickiG2705](https://steamcommunity.com/id/NickiG2705)
-<br>
-Site: [nickig.org](https://nickig.org/)
-<br>
-Discord: JUKO2705
-<hr>
+[Steam: NickiG2705](https://steamcommunity.com/id/NickiG2705)
+[Site: nickig.org](https://nickig.org/)
+[Discord: JUKO2705]
+
 
 
 <b>Hello and welcome.</b><br>
