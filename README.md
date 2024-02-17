@@ -5,10 +5,10 @@
 <b>Hello and welcome 👋</b><br>
 Now that you're here let's get a few things in place ok?<br>
 <hr>
-<h2>Forced 2FA - FUCK YOU!</2>
+<h2>Forced 2FA - FUCK YOU!</h2>
 <hr>
   
-I love open source codes <3
+I love open source codes <3<br>
 Technologies I'm using 🪛:<br>
 
 
